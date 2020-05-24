@@ -8,9 +8,11 @@ Thus it is a binary classfier. Data augmentation was applied to prevent overfiti
 
 The final outcome is as follows:
 
-![Results](images/dog.png)
+![](images/dog.png)
 
-See notebook [here]()
+![](images/dog1.png)
+
+See notebook [here](https://github.com/jayashree8/Deep_learning_computer_vision/blob/master/Husky%20and%20poodle%20dog%20breed%20classifier/husky_vs_poodle.ipynb)
 
 # Flower multi class classifier
 
@@ -20,4 +22,4 @@ The final outcome is as follows:
 
 ![Results](images/flower.png)
 
-See notebook [here]()
+See notebook [here](https://github.com/jayashree8/Deep_learning_computer_vision/blob/master/Flower%20multi%20class%20classifier/Flower%20classifier.ipynb)
